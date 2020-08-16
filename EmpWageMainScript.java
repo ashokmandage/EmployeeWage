@@ -13,4 +13,4 @@ public class EmpWageMainScript
 	 	System.out.println("Employee is absent");
 		}
 	}
-}
+ }
